@@ -18,19 +18,19 @@ In this assignment we used Simulated Annealing to solve the Travelling Salesman 
 [Paths](media/path.png) 
 
 #### Fast cooling
-[Distance convergence](media/fast-cooling/distance-convergence.png)
-[Temperature convergence](media/fast-cooling/temperature-convergence.png)
-[Animation](media/fast-cooling/video.mp4)
+[Distance convergence](media/fast-cooling/distance-convergence.png)  
+[Temperature convergence](media/fast-cooling/temperature-convergence.png)  
+[Animation](media/fast-cooling/video.mp4)  
 
 #### Middle cooling
-[Distance convergence](media/middle-cooling/distance-convergence.png)
-[Temperature convergence](media/middle-cooling/temperature-convergence.png)
-[Animation](media/middle-cooling/video.mp4)
+[Distance convergence](media/middle-cooling/distance-convergence.png)  
+[Temperature convergence](media/middle-cooling/temperature-convergence.png)  
+[Animation](media/middle-cooling/video.mp4)  
 
 #### Slow cooling
-[Distance convergence](media/slow-cooling/distance-convergence.png)
-[Temperature convergence](media/slow-cooling/temperature-convergence.png)
-[Animation](media/slow-cooling/video.mp4)
+[Distance convergence](media/slow-cooling/distance-convergence.png)  
+[Temperature convergence](media/slow-cooling/temperature-convergence.png)  
+[Animation](media/slow-cooling/video.mp4)  
 
 ### Conclusion
 - Different cooling rates affect the speed of convergence.  
