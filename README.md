@@ -13,9 +13,9 @@ pip install -r requirements.txt
 jupyter notebook Task2.ipynb
 ```
 
-In this assignment we used Simulated Annealing to solve the Travelling Salesman problem on the example of 30 Russian cities.
-[Cities](media/cities.png)
-[Paths](media/path.png) 
+In this assignment we used Simulated Annealing to solve the Travelling Salesman problem on the example of 30 Russian cities.  
+[Cities](media/cities.png)  
+[Paths](media/path.png)  
 
 #### Fast cooling
 [Distance convergence](media/fast-cooling/distance-convergence.png)  
